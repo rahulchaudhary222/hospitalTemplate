@@ -1,0 +1,23 @@
+.middle {
+  margin: 10px 20px 10px 20px;
+  display: flex;
+}
+.first {
+  margin: 10px;
+  width: 33%;
+}
+.second {
+  margin: 10px;
+  width: 33%;
+}
+.third {
+  margin: 10px;
+  width: 33%;
+}
+
+.middle ul li {
+  text-align: left;
+}
+.third video {
+  width: 450px;
+}

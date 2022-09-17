@@ -1,0 +1,40 @@
+.fotter {
+  display: flex;
+  margin-top: 20px;
+  height: 40vh;
+  background-color: rgb(60, 185, 170);
+}
+.naam {
+  display: flex;
+}
+.one {
+  padding: 10px 10px;
+  width: 30%;
+}
+.one ul {
+  margin-top: 20px;
+}
+.one a {
+  color: white;
+}
+.one li {
+  margin-top: 10px;
+  text-align: left;
+}
+.two {
+  padding: 10px;
+  width: 40%;
+}
+.two ul {
+  margin-top: 20px;
+}
+.two a {
+  color: white;
+}
+.two li {
+  margin-top: 10px;
+  text-align: left;
+}
+.three {
+  width: 30%;
+}

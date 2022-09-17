@@ -1,0 +1,31 @@
+.service {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/001/874/132/original/abstract-geometric-white-background-free-vector.jpg");
+}
+.list-service {
+  display: flex;
+}
+.ul-left {
+  text-align: left;
+  width: 50%;
+}
+.ul-left ul {
+  margin: 10px auto;
+  width: fit-content;
+}
+.ul-right {
+  text-align: left;
+  width: 50%;
+}
+.ul-right ul {
+  margin: 10px auto;
+  width: fit-content;
+}
+.list-service a {
+  font-size: x-large;
+}
+.ul-left li {
+  margin-top: 5px;
+}
+.ul-right li {
+  margin-top: 5px;
+}

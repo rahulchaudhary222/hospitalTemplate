@@ -1,0 +1,16 @@
+.main {
+  margin: 10px;
+  display: flex;
+}
+.left {
+  width: 70%;
+}
+.right {
+  margin: 10px;
+  width: 30%;
+}
+.right h2,
+h5,
+h4 {
+  color: rgb(98, 98, 180);
+}
